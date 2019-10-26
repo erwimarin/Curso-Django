@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/templates/core/base.html" line="58" />
+    <bookmark url="file://$PROJECT_DIR$/templates/core/home.html" line="16" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c66743c8-6832-42c2-92f2-a382175e39c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/profiles/profile_list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/messenger/thread_detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-102">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/messenger/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-18">
+              <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/messenger/thread_list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/messenger/tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/messenger/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/messenger/admin.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/messenger/apps.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/messenger/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/profiles/admin.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>backgr</find>
+      <find>Searchs_006</find>
+      <find>stati</find>
+      <find>carousel-indicators</find>
+      <find>item</find>
+      <find>search</find>
+      <find>url</find>
+      <find>jp</find>
+      <find>profile_email_form.html</find>
+      <find>page</find>
+      <find>PageListView</find>
+      <find>PageListCreatedView</find>
+      <find>page_list_created</find>
+      <find>productspa</find>
+      <find>product-list</find>
+      <find>user_profile</find>
+      <find>get_object_or_404</find>
+      <find>ForeignKey</find>
+      <find>method_decorator</find>
+      <find>cart</find>
+      <find>OrderItems</find>
+      <find>is_approved</find>
+      <find>messenge</find>
+      <find>avatar</find>
+      <find>{% if request.user != profile.user %}</find>
+      <find>start_thread</find>
+      <find>messenger</find>
+      <find>Thread</find>
+      <find>msg_pk</find>
+      <find>order</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\em\PycharmProjects\Navarin</dir>
+      <dir>C:\Users\em\PycharmProjects\Navarin_v3\Navarin\messenger</dir>
+      <dir>C:\Users\em\PycharmProjects\Navarin_v3\Navarin</dir>
+      <dir>C:\Users\em\PycharmProjects\Navarin_v3\Navarin\venv</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/static/core/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/templates/wd.html" />
+        <option value="$PROJECT_DIR$/static/core/css/main.css" />
+        <option value="$PROJECT_DIR$/static/core/css/corousel.css" />
+        <option value="$PROJECT_DIR$/static/core/css/main_corousel.css" />
+        <option value="$PROJECT_DIR$/static/core/css/main_background.css" />
+        <option value="$PROJECT_DIR$/templates/registration/profile_email_form.html" />
+        <option value="$PROJECT_DIR$/pages/migrations/0005_auto_20190903_1511.py" />
+        <option value="$PROJECT_DIR$/templates/registration/profile_form.html" />
+        <option value="$PROJECT_DIR$/templates/pages/Page_List_Created.html" />
+        <option value="$PROJECT_DIR$/templates/pages/search_results.html" />
+        <option value="$PROJECT_DIR$/pages/extras.py" />
+        <option value="$PROJECT_DIR$/templates/pages/order_summary.html" />
+        <option value="$PROJECT_DIR$/templates/pages/page_confirm_delete.html" />
+        <option value="$PROJECT_DIR$/templates/pages/page_form.html" />
+        <option value="$PROJECT_DIR$/templates/pages/page_update_form.html" />
+        <option value="$PROJECT_DIR$/pages/admin.py" />
+        <option value="$PROJECT_DIR$/registration/forms.py" />
+        <option value="$PROJECT_DIR$/pages/urls.py" />
+        <option value="$PROJECT_DIR$/templates/orders/order_form.html" />
+        <option value="$PROJECT_DIR$/registration/migrations/0002_auto_20190830_1218.py" />
+        <option value="$PROJECT_DIR$/order/models.py" />
+        <option value="$PROJECT_DIR$/registration/admin.py" />
+        <option value="$PROJECT_DIR$/order/admin.py" />
+        <option value="$PROJECT_DIR$/pages/views.py" />
+        <option value="$PROJECT_DIR$/order/forms.py" />
+        <option value="$PROJECT_DIR$/order/views.py" />
+        <option value="$PROJECT_DIR$/order/urls.py" />
+        <option value="$PROJECT_DIR$/ecommerce/admin.py" />
+        <option value="$PROJECT_DIR$/ecommerce/models.py" />
+        <option value="$PROJECT_DIR$/ecommerce/views.py" />
+        <option value="$PROJECT_DIR$/shop/urls.py" />
+        <option value="$PROJECT_DIR$/pages/models.py" />
+        <option value="$PROJECT_DIR$/core/views.py" />
+        <option value="$PROJECT_DIR$/templates/pages/page_detail.html" />
+        <option value="$PROJECT_DIR$/pages/forms.py" />
+        <option value="$PROJECT_DIR$/templates/pages/page_list_created.html" />
+        <option value="$PROJECT_DIR$/templates/pages/page_list.html" />
+        <option value="$PROJECT_DIR$/templates/core/home.html" />
+        <option value="$PROJECT_DIR$/profiles/views.py" />
+        <option value="$PROJECT_DIR$/Navarin/settings.py" />
+        <option value="$PROJECT_DIR$/templates/profiles/profile_detail.html" />
+        <option value="$PROJECT_DIR$/messenger/views.py" />
+        <option value="$PROJECT_DIR$/Navarin/urls.py" />
+        <option value="$PROJECT_DIR$/templates/core/base.html" />
+        <option value="$PROJECT_DIR$/templates/messenger/thread_list.html" />
+        <option value="$PROJECT_DIR$/templates/messenger/thread_detail.html" />
+        <option value="$PROJECT_DIR$/templates/profiles/profile_list.html" />
+        <option value="$PROJECT_DIR$/messenger/urls.py" />
+        <option value="$PROJECT_DIR$/messenger/tests.py" />
+        <option value="$PROJECT_DIR$/messenger/models.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Navarin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Navarin" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.splitter.proportion" value="0.22389558" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\em\PycharmProjects\Navarin\static\registration\img" />
+      <recent name="C:\Users\em\PycharmProjects\Navarin\static\core\js\extention" />
+      <recent name="C:\Users\em\PycharmProjects\Navarin\static\core\css" />
+      <recent name="C:\Users\em\PycharmProjects\Navarin\static\core\img" />
+      <recent name="C:\Users\em\PycharmProjects\Navarin\templates\pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\em\PycharmProjects\Navarin_v3\Navarin\templates\orders" />
+      <recent name="C:\Users\em\PycharmProjects\Navarin_v3\Navarin\templates\pages" />
+      <recent name="C:\Users\em\PycharmProjects\Navarin_v3\Navarin\order" />
+      <recent name="C:\Users\em\PycharmProjects\Navarin_v3\Navarin\static\core\js" />
+      <recent name="C:\Users\em\PycharmProjects\Navarin\templates\registration" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.Navarin">
+    <configuration name="Test: messenger.tests.ThreadTestCase" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="Navarin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="messenger.tests.ThreadTestCase" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: messenger.tests.ThreadTestCase.test_add_users_to_thread" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="Navarin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="messenger.tests.ThreadTestCase.test_add_users_to_thread" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Navarin/templates/core/home.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="page_list.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Navarin/templates/pages/page_list.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="wd.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Navarin/templates/wd.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Navarin" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Navarin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Navarin.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Django tests.Test: messenger.tests.ThreadTestCase" />
+        <item itemvalue="Django tests.Test: messenger.tests.ThreadTestCase.test_add_users_to_thread" />
+        <item itemvalue="JavaScript Debug.home.html" />
+        <item itemvalue="JavaScript Debug.page_list.html" />
+        <item itemvalue="JavaScript Debug.wd.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c66743c8-6832-42c2-92f2-a382175e39c1" name="Default Changelist" comment="" />
+      <created>1567037650095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567037650095</updated>
+      <workItem from="1567037737738" duration="4166000" />
+      <workItem from="1567101161103" duration="12151000" />
+      <workItem from="1567172455404" duration="25468000" />
+      <workItem from="1567212605599" duration="655000" />
+      <workItem from="1567267687559" duration="19338000" />
+      <workItem from="1567360395024" duration="12792000" />
+      <workItem from="1567389200150" duration="4000" />
+      <workItem from="1567457232169" duration="2413000" />
+      <workItem from="1567460669595" duration="5579000" />
+      <workItem from="1567528538258" duration="11191000" />
+      <workItem from="1567695324689" duration="9364000" />
+      <workItem from="1567707120639" duration="7848000" />
+      <workItem from="1567801689963" duration="9597000" />
+      <workItem from="1567867979891" duration="10088000" />
+      <workItem from="1567964671076" duration="1844000" />
+      <workItem from="1568051574016" duration="1198000" />
+      <workItem from="1568300517249" duration="706000" />
+      <workItem from="1568941600927" duration="400000" />
+      <workItem from="1569000681267" duration="1228000" />
+      <workItem from="1569270641311" duration="180000" />
+      <workItem from="1569270849848" duration="7533000" />
+      <workItem from="1569341283370" duration="1725000" />
+      <workItem from="1569343575564" duration="16911000" />
+      <workItem from="1569451452857" duration="5663000" />
+      <workItem from="1569535540349" duration="3121000" />
+      <workItem from="1569600021666" duration="12573000" />
+      <workItem from="1569685145576" duration="12946000" />
+      <workItem from="1569772341023" duration="15516000" />
+      <workItem from="1569870301955" duration="7095000" />
+      <workItem from="1569945986053" duration="698000" />
+      <workItem from="1570141791384" duration="6695000" />
+      <workItem from="1570289344557" duration="2853000" />
+      <workItem from="1570317749110" duration="2624000" />
+      <workItem from="1570378475974" duration="5644000" />
+      <workItem from="1570836290073" duration="5350000" />
+      <workItem from="1571434301976" duration="600000" />
+      <workItem from="1571781834457" duration="3669000" />
+      <workItem from="1571873579264" duration="2456000" />
+      <workItem from="1571942232359" duration="2524000" />
+      <workItem from="1572106045141" duration="8398000" />
+    </task>
+    <task id="LOCAL-00001" summary="Proyecto finalizado">
+      <created>1572109950851</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572109950851</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Proyecto finalizado">
+      <created>1572112477013</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572112477013</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test__messenger_tests_ThreadTestCase_test_add_users_to_thread - 2019.10.22 at 20h 02m 30s.xml">
+      <configuration name="Test: messenger.tests.ThreadTestCase.test_add_users_to_thread" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__messenger_tests_ThreadTestCase - 2019.10.22 at 20h 02m 50s.xml">
+      <configuration name="Test: messenger.tests.ThreadTestCase" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__messenger_tests_ThreadTestCase - 2019.10.26 at 13h 16m 43s.xml">
+      <configuration name="Test: messenger.tests.ThreadTestCase" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+    <history-entry file="Test__messenger_tests_ThreadTestCase - 2019.10.26 at 13h 35m 34s.xml">
+      <configuration name="Test: messenger.tests.ThreadTestCase" configurationId="DjangoTestsConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="260804000" />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30257186" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49848714" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5998487" weight="0.26350245" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29787233" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4969743" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4969743" visible="true" weight="0.2831424" />
+      <window_info anchor="bottom" id="Database Changes" order="9" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5030257" side_tool="true" visible="true" weight="0.2831424" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4871407" weight="0.21603929" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22541603" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7602118" visible="true" weight="0.26350245" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29787233" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.2397882" side_tool="true" visible="true" weight="0.26350245" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49394855" weight="0.23567921" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Proyecto finalizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto finalizado" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../Navarin/venv/Lib/site-packages/django/views/generic/list.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Navarin$Test__messenger_tests_ThreadTestCase.coverage" NAME="Test: messenger.tests.ThreadTestCase Coverage Results" MODIFIED="1572106621016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Navarin$Test__messenger_tests_ThreadTestCase_test_add_users_to_thread.coverage" NAME="Test: messenger.tests.ThreadTestCase.test_add_users_to_thread Coverage Results" MODIFIED="1571785339686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>page</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>page_list</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/shop/views.py" />
+    <entry file="file://$PROJECT_DIR$/shop/models.py" />
+    <entry file="file://$PROJECT_DIR$/registration/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/core/img/Search_001.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/core/img/Search_003.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/core/img/Searchs_130.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/urls.py" />
+    <entry file="file://$PROJECT_DIR$/shop/tests.py" />
+    <entry file="file://$PROJECT_DIR$/order/forms.py" />
+    <entry file="file://$PROJECT_DIR$/order/models.py" />
+    <entry file="file://$PROJECT_DIR$/ecommerce/models.py" />
+    <entry file="file://$PROJECT_DIR$/static/registration/img/no-avatar.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Navarin/venv/Lib/site-packages/django/core/management/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="380" selection-start-line="380" selection-end-line="380" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/orders/order_form.html" />
+    <entry file="file://$PROJECT_DIR$/../../Navarin/venv/Lib/site-packages/django/core/checks/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Navarin/venv/Lib/site-packages/django/forms/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="265" selection-start-line="265" selection-end-line="265" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-712">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/page_list_created.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding>
+            <element signature="e#501#521#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/page_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/page_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#h5#1;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/page_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/core/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="84" selection-start-line="13" selection-start-column="84" selection-end-line="13" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profiles/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registration/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registration/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profiles/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Navarin/venv/Lib/site-packages/django/urls/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profiles/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profiles/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Navarin/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+          <folding>
+            <element signature="e#631#663#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Navarin/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Navarin/venv/Lib/site-packages/django/views/generic/detail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="163" column="6" selection-start-line="163" selection-start-column="6" selection-end-line="163" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/profiles/profile_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/core/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/profiles/profile_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messenger/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messenger/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messenger/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messenger/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messenger/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profiles/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/messenger/thread_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/messenger/thread_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/messenger/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
