@@ -10,6 +10,17 @@ from django.contrib.auth.decorators import login_required
 from django.db.models import Q
 from django.shortcuts import get_object_or_404, render
 
+from rest_framework import viewsets, mixins
+from rest_framework.response import Response
+from rest_framework.views import APIView
+from rest_framework.permissions import IsAuthenticated
+from rest_framework.authentication import TokenAuthentication
+
+
+from .models import Page
+from .serializers import PageSerializer
+
+from django.http import JsonResponse
 
 class StaffRequiredMixin(object):
     """
@@ -72,3 +83,17 @@ class SearchResultsView(ListView):
         return object_list
 
 
+class TestView(APIView):
+    permission_classes = (IsAuthenticated,)
+
+    def get(self, request, *args, **kwargs):
+        qs = Page.objects.all()
+        serializer = PageSerializer(qs, many=True)
+        return Response(serializer.data)
+
+    def post (self, request, *args, **kwargs):
+        serializer = PageSerializer(data=request.data)
+        if  serializer.is_valid():
+            serializer.save()
+            return serializer.data
+        return serializer.errors
