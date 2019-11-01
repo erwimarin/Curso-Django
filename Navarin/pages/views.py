@@ -83,7 +83,7 @@ class SearchResultsView(ListView):
         return object_list
 
 
-class TestView(APIView):
+class PageView(APIView):
     permission_classes = (IsAuthenticated,)
 
     def get(self, request, *args, **kwargs):
