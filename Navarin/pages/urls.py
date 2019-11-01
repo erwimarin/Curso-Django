@@ -1,6 +1,6 @@
 from django.urls import path
 from .views import PageListView, PageDetailView, PageCreate, PageUpdate, PageDelete,PageListCreatedView, SearchResultsView
-from pages.views import TestView
+from pages.views import PageView
 from rest_framework.authtoken.views import obtain_auth_token
 
 pages_patterns = ([
@@ -12,6 +12,6 @@ pages_patterns = ([
     path('delete/<int:pk>/', PageDelete.as_view(), name='delete'),
     path('search/', SearchResultsView.as_view(), name='search'),
     path('api/token/', obtain_auth_token, name='obtain-token'),
-    path('api/', TestView.as_view(), name='api'),
+    path('api/', PageView.as_view(), name='api'),
 
 ], 'pages')
